@@ -1,9 +1,9 @@
 # test-websockets
 
-server:
-npm i 
+<b>server:</b>
+npm i <br/>
 npm start
 
-client:
-npm i
+<b>client:</b>
+npm i <br/>
 npm run dev
